@@ -17,6 +17,6 @@
   <span property="dct:title">メディプライム株式会社 就業規則</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="JP" about="http://www.denkiyagi.jp/">
+      content="JP" about="http://mediprime.co.jp/">
   日本</span>.
 </p>
