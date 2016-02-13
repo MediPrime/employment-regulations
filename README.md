@@ -11,7 +11,7 @@
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="http://www.denkiyagi.jp/">
+     href="http://mediprime.co.jp/">
     <span property="dct:title">メディプライム株式会社</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">メディプライム株式会社 就業規則</span>.
